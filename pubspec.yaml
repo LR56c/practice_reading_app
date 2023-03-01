@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  hooks_riverpod: ^2.1.1
+  hooks_riverpod: ^2.3.0
   nhost_flutter_graphql: ^2.1.0
   flutter_localizations:
     sdk: flutter
