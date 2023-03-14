@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   hooks_riverpod: ^2.1.1
-  nhost_flutter_graphql: ^2.1.0
+  nhost_flutter_graphql: ^3.0.0
   flutter_localizations:
     sdk: flutter
   intl: ^0.17.0
